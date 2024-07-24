@@ -5,7 +5,7 @@
 
 > 生成目录结构文本CLI `tree ./ > tree.txt`
 
-root
-├── README.md
-├── directories.txt
+root \
+├── README.md \
+├── directories.txt \
 └── notes.md
